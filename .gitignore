@@ -1,0 +1,26 @@
+./Lab17 - rds [IMPORTANT]/.terraform/providers/registry.terraform.io/hashicorp/aws/4.34.0/darwin_amd64/terraform-provider-aws_v4.34.0_x5
+./Lab17 - rds [IMPORTANT]/.terraform/providers/registry.terraform.io/hashicorp/aws/4.34.0/windows_amd64/terraform-provider-aws_v4.34.0_x5.exe
+./Lab5 - s3wSNS/.terraform/providers/registry.terraform.io/hashicorp/aws/4.48.0/darwin_amd64/terraform-provider-aws_v4.48.0_x5
+./Lab19 - rds/.terraform/providers/registry.terraform.io/hashicorp/aws/4.39.0/darwin_amd64/terraform-provider-aws_v4.39.0_x5
+./Lab12 - backend/.terraform/providers/registry.terraform.io/hashicorp/aws/4.47.0/darwin_amd64/terraform-provider-aws_v4.47.0_x5
+./Lab21 - autoscaling-complete/.terraform/providers/registry.terraform.io/hashicorp/aws/4.46.0/darwin_amd64/terraform-provider-aws_v4.46.0_x5
+./Lab20 - autoscaling/.terraform/providers/registry.terraform.io/hashicorp/aws/4.46.0/darwin_amd64/terraform-provider-aws_v4.46.0_x5
+./Lab6 - s3wSNS - random/.terraform/providers/registry.terraform.io/hashicorp/aws/4.40.0/darwin_amd64/terraform-provider-aws_v4.40.0_x5
+./Lab4 - s3wSQS/.terraform/providers/registry.terraform.io/hashicorp/aws/4.40.0/darwin_amd64/terraform-provider-aws_v4.40.0_x5
+./Lab9 - s3wSNS dynamic/.terraform/providers/registry.terraform.io/hashicorp/aws/4.48.0/darwin_amd64/terraform-provider-aws_v4.48.0_x5
+./Lab15 - sg and ec2/.terraform/providers/registry.terraform.io/hashicorp/aws/4.34.0/darwin_amd64/terraform-provider-aws_v4.34.0_x5
+./Lab3 - ec2/ec2WithEFS/.terraform/providers/registry.terraform.io/hashicorp/aws/4.33.0/darwin_amd64/terraform-provider-aws_v4.33.0_x5
+./Lab3 - ec2/ec2WithEFS/.terraform/providers/registry.terraform.io/hashicorp/aws/4.33.0/windows_amd64/terraform-provider-aws_v4.33.0_x5.exe
+./Lab3 - ec2/ec2-locals/.terraform/providers/registry.terraform.io/hashicorp/aws/4.33.0/darwin_amd64/terraform-provider-aws_v4.33.0_x5
+./Lab3 - ec2/ec2-output/.terraform/providers/registry.terraform.io/hashicorp/aws/4.33.0/windows_amd64/terraform-provider-aws_v4.33.0_x5.exe
+./Lab3 - ec2/ec2-input/.terraform/providers/registry.terraform.io/hashicorp/aws/4.33.0/windows_amd64/terraform-provider-aws_v4.33.0_x5.exe
+./Lab1 - ec2-efs/.terraform/providers/registry.terraform.io/hashicorp/aws/4.45.0/darwin_amd64/terraform-provider-aws_v4.45.0_x5
+./Lab16 - ec2/.terraform/providers/registry.terraform.io/hashicorp/aws/4.47.0/darwin_amd64/terraform-provider-aws_v4.47.0_x5
+./Lab8 - s3wEC2/.terraform/providers/registry.terraform.io/hashicorp/aws/4.48.0/darwin_amd64/terraform-provider-aws_v4.48.0_x5
+./Lab14 - module vpc and key pair/.terraform/providers/registry.terraform.io/hashicorp/aws/4.47.0/darwin_amd64/terraform-provider-aws_v4.47.0_x5
+./Lab7 - data + output/.terraform/providers/registry.terraform.io/hashicorp/aws/4.33.0/darwin_amd64/terraform-provider-aws_v4.33.0_x5
+./Lab7 - data + output/.terraform/providers/registry.terraform.io/hashicorp/aws/4.33.0/windows_amd64/terraform-provider-aws_v4.33.0_x5.exe
+./Lab10 - lambda fn/.terraform/providers/registry.terraform.io/hashicorp/aws/4.47.0/darwin_amd64/terraform-provider-aws_v4.47.0_x5
+./Lab11 - provisioners/.terraform/providers/registry.terraform.io/hashicorp/aws/4.34.0/darwin_amd64/terraform-provider-aws_v4.34.0_x5
+./Lab18 - ec2-efs-rds/.terraform/providers/registry.terraform.io/hashicorp/aws/4.46.0/darwin_amd64/terraform-provider-aws_v4.46.0_x5
+./Lab13 - vpc + ec2/.terraform/providers/registry.terraform.io/hashicorp/aws/4.34.0/darwin_amd64/terraform-provider-aws_v4.34.0_x5
