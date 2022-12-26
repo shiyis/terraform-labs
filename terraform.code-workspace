@@ -1,8 +1,7 @@
 {
 	"folders": [
 		{
-			"name": "terraform",
-			"path": "."
+			"path": "Z:/nlp/aws-labs/terraform"
 		}
 	],
 	"settings": {}
